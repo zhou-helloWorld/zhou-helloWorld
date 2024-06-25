@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 <!--
-**zhou-helloWorld/zhou-helloWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**coding-zhou/coding-zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:school:  成都东软学院（2014-2018）- 数字媒体技术(毫无卵用的专业:sweat_smile:)
+
+:sweat_smile:  转眼29了，干程序员，听说不好混啊 :hear_no_evil:
+
+:house_with_garden: 四川省绵阳市江油市
+
+:wilted_flower: 未婚
+
+:factory: 未来打算进厂打螺丝了。。。
